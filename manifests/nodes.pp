@@ -1,3 +1,3 @@
 node 'demo' {
-     include nginx
+     include filetest
 }
